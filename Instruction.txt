@@ -1,5 +1,7 @@
 IMPORTANT TO READ
 You need to download latest python here https://www.python.org/downloads/ (I used Python 3.9.7)
+
+Dont install module again if you download from zip / releases A.K.A here https://bit.ly/YTDRelease
 You need to download these module = pytime,pafy and youtube-dl (pip install pafy, pip install pytime, pip install youtube-dl)
 
 How to use instruction!
