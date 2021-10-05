@@ -1,0 +1,15 @@
+IMPORTANT TO READ
+You need to download latest python here https://www.python.org/downloads/ (I used Python 3.9.7)
+You need to download these module = pytime,pafy and youtube-dl (pip install pafy, pip install pytime, pip install youtube-dl)
+
+How to use instruction!
+1. Download and extract the zip on folder
+2. Open Start.bat
+3. Wait the program to load 
+4. Paste youtube video link
+5. Done you just need to wait until the download done
+
+Note : 
+Internet Speed is not restricted it depends on youtube/google server
+If download was slow exit and run the program again if it still happening its youtube-dl problem
+You can change the code freely as you want
