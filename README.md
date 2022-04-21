@@ -1,4 +1,4 @@
-# YoutubeDownloader 2.1
+# PythonYoutubeDownloader 2.1
 Unrestricted YoutubeDownloader made by Gazor
 
 This is my first Python program, yea i know its bad
