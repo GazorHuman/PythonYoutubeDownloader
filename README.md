@@ -5,8 +5,6 @@ This is my first Python program, yea i know its bad
 
 having issue with module or lazy to download module? download from here https://bit.ly/YTDRelease
 
-program bugged? come to my website https://bit.ly/Pythonscript
-
 please read instruction.txt before you asking, Enjoy!
 
 NOTE
